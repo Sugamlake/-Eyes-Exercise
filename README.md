@@ -1,6 +1,15 @@
 # -Eyes-Exercise
-eyes move
-En este ejercicio los ojos se van moviendo siguiendo al cursor, es un ejericio ideal para practicar.
+Proyecto Original: En ésta animación originalmente se muestran un solo ojo siguiendo el ratón,
+se lanza el programa con 
+
+Modificaciones:
+
+Se agrega agrega un segundo ojo para hacerlo mas amigable con el usuario.
+
+Otras modificaciones:
+También se pueden agregar otras modificaciones al proyecto como un cambio en el color de ojos, en el color de fondo
+se puede agregar una abejita girando por todo el contorno de la ventana para que sea mas interactivo como juego para niños.
+
 
 MIT License
 

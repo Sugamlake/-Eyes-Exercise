@@ -1,10 +1,10 @@
-# -Eyes-game
+# Eyes-game
 
 ### Description: In this original animation a single eye is shown following the mouse
 
 ### Installation Guidelines: 
 - First clone the project
-- Initialize a web server as go live in the locations of the Pacman project
+- Initialize a web server as go live in the locations of the Eyes-game project
 
 ### Screenshots: 
 
